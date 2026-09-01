@@ -166,7 +166,9 @@ The model predictions are inverse-transformed back to the original stock price s
 
 ### Actual vs Predicted Stock Prices
 
-![Stock Predictions](images/stock_predictions.png)
+![Stock Predictions](images/stock_analysis_final.png)
+
+![Correlation of Features](images/feature_correlation_stock.png)
 
 The model captures the overall trend of the stock price reasonably well.
 
